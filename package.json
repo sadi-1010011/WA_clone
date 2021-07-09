@@ -2,7 +2,7 @@
   "name": "profile_section",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sadi-1010011.github.io/WA_clone",
+  "homepage": "https://sadi-1010011.github.io/WA_clone/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
