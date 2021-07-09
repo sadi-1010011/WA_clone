@@ -1,0 +1,33 @@
+/* STYLE FOR SCREENS */
+
+::-webkit-scrollbar { display: none; }
+
+/* HOMESCREEN */
+
+#homescreen_container {
+    display: block;
+    width: 100vw;
+    overflow-y: hidden;
+    /* background-color: green; */
+}
+
+#camera_container {
+    display: none;
+    text-align: center;
+    padding-top: 2in;
+}
+
+#chats_container {
+    display: block;
+    /* border: 1px solid antiquewhite; */
+}
+
+#status_container {
+    display: none;
+    /* border: 1px solid aquamarine; */
+}
+
+#callhistory_container {
+    display: none;
+    /* border: 1px solid blueviolet; */
+}
