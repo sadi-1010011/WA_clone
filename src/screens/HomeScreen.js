@@ -39,7 +39,7 @@ export default function HomeScreen() {
                     <br/>                    
                     <span># If anyone interested in this project to continue / complete this app, for collaboration kindly contact me anytime..</span>
                     <br/>
-                    <span className="contactme-myphone">+91 6238998262</span>
+                    <span className="contactme-myphone">+91 6238998062</span>
                 </div>
 
                 <div id="chats_container">
