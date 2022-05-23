@@ -1,13 +1,16 @@
+
+https://sadi-1010011.github.io/WA_clone
+
 # WhatsApp clone using React.
 
 This project was developed for educational purposes only.
 
 
-# If anyone interested in this project to continue / complete this app, for collaboration kindly contact me anytime..
+If anyone interested in this project to continue / complete this app, for collaboration kindly contact me anytime..
 
 I wish if it was the case we could implement both back-end and database to make it perfect clone. And also I hope we can implement the extra / beta features before hand someday.. 
 
-# Any feedback or comments are most welcome
+Any feedback or comments are most welcome
 
 You can find my personal info in my bio and contact me anytime. I will be there, most probably :)
 
